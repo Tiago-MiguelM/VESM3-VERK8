@@ -1,4 +1,4 @@
 # VESM3-VERK3
-Repository fyrir verkefni 
+Repository fyrir Lokaverkefni 
 
 you be looking like imposter you monster
