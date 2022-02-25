@@ -22,6 +22,11 @@
 
 # Vandamál
 
+- Upphaflega hugmyndin var að nota microsoft azure en það kom upp vandamál að keyra azure þar sem við þurftum að breyta source code til að fá að virka.
+- Við skiptum yfir í opencv þar sem við vorum að fá villur með að hlaða niður library sem heitir, opencv-python og dlib.
+- Eftir að við náðum að download-a opencv-python var vesen að runna setup.py sem fylgir opencv sem hjálpar því að tengja cmake
+
+
 # Heimildir
 
 Hér eru nokkrar og bestar heimildir sem við fundum og notuðum til þess að reyna fá þetta til að virka enn því miður fengum við það ekki til að virka 
