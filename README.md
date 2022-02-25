@@ -1,4 +1,15 @@
 # VESM3-VERK8
-Repository fyrir Lokaverkefni 
 
-you be looking like imposter you monster
+# Verkefnalýsing
+
+# Efnalisti
+
+# Kóði
+
+# Hönnunarteikningar, Rafrásateikningar og tenglar
+
+# Dagbók
+
+# Vandamál
+
+# Heimildir
