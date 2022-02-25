@@ -13,7 +13,9 @@
 
 # Kóði
 
-Hér er kóði fyrir PIR Sensor sem sendir á Adafruit [PIR Kóði](https://github.com/Tiago-MiguelM/VESM3-VERK3/blob/main/PiNano/LokaVerkefni8%20Motion%20Sensor.py)
+- [Pi Nano Motion Sensor Reciever Kóðinn](https://github.com/Tiago-MiguelM/VESM3-VERK3/blob/main/PiNano/LokaVerkefni8%20Motion%20Sensor.py)
+- [Pi 4 Camera Kóðinn](https://github.com/Tiago-MiguelM/VESM3-VERK3/blob/main/Pi4/Basics.py)
+
 # Hönnunarteikningar, Rafrásateikningar og tenglar
 
 # Dagbók
