@@ -25,6 +25,19 @@
 
 # Dagbók
 
+## Tími 1
+-
+## Tími 2
+-
+## Tími 3
+-
+## Tími 4
+-
+## Tími 5
+-
+## Tími 6
+-
+
 # Vandamál
 
 - Upphaflega hugmyndin var að nota microsoft azure en það kom upp vandamál að keyra azure þar sem við þurftum að breyta source code til að fá að virka.
