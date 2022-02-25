@@ -20,7 +20,21 @@
 
 ![image](https://github.com/Tiago-MiguelM/VESM3-VERK3/blob/main/circuit.png)
 
+## 3D Teikningar
+- [Camera Box](https://github.com/Tiago-MiguelM/VESM3-VERK3/blob/main/Pi4%20Box.stl)
+- [PIR Skynjari Box](https://github.com/Tiago-MiguelM/VESM3-VERK3/blob/main/Pir-Box.stl)
+
 # Dagbók
+
+## Tími 1
+
+## Tími 2
+
+## Tími 3
+
+## Tími 4
+
+## Tími 5
 
 # Vandamál
 
