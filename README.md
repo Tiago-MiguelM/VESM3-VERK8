@@ -23,6 +23,9 @@
 
 ![image](https://github.com/Tiago-MiguelM/VESM3-VERK3/blob/main/circuit.png)
 ![image](https://github.com/Tiago-MiguelM/VESM3-VERK8/blob/main/20220302_161706.jpg)
+![image](https://github.com/Tiago-MiguelM/VESM3-VERK8/blob/main/20220302_161701.jpg)
+![image](https://github.com/Tiago-MiguelM/VESM3-VERK8/blob/main/20220302_161604.jpg)
+![image](https://github.com/Tiago-MiguelM/VESM3-VERK8/blob/main/20220302_161624.jpg)
 
 # Dagbók
 
