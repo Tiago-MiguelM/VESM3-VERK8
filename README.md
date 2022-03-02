@@ -22,6 +22,7 @@
 # Hönnunarteikningar, Rafrásateikningar og tenglar
 
 ![image](https://github.com/Tiago-MiguelM/VESM3-VERK3/blob/main/circuit.png)
+![image](https://github.com/Tiago-MiguelM/VESM3-VERK8/blob/main/20220302_161706.jpg)
 
 # Dagbók
 
