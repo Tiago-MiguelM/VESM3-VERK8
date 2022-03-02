@@ -34,9 +34,9 @@
 ## Tími 4
 - Allir næstu tímarnir fóru í að reyna fá OpenCV-Python til þess að virka. 
 ## Tími 5
--
+- Í þessum tíma byrjuðum við að kóða smá til þess að taka pásu frá ví að reyna fá opencv til að virka 
 ## Tími 6
--
+- við heldum áfram að reyna fá opencv til þess að virka þar sem við fengum hjálp frá nokkrum kennurum, reyndum missmunandi stýrikerfi og aðra hluti en fengum það ekki til að virka 
 
 # Vandamál
 
